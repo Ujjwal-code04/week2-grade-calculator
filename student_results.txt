@@ -1,0 +1,2 @@
+{'name': 'ujjwal raj', 'marks': [78.0, 68.0, 78.0], 'average': 74.66666666666667, 'grade': 'C', 'comment': 'Fair effort.'}
+{'name': 'shreya', 'marks': [48.0, 75.0, 85.0], 'average': 69.33333333333333, 'grade': 'D', 'comment': 'Needs improvement.'}
